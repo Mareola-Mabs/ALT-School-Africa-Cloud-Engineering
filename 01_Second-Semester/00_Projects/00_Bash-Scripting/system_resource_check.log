@@ -1,0 +1,119 @@
+==============================
+System Resource Check - Wed 14 Jan 2026 09:39:07 WAT
+==============================
+
+Disk usage for /home:
+278G	/home
+
+Top 5 memory-consuming processes:
+    PID    PPID CMD                         %MEM
+   7509    3073 /opt/google/chrome/chrome -  4.7
+   3055    1913 /opt/google/chrome/chrome    4.2
+ 110718    3073 /opt/google/chrome/chrome -  2.6
+  96392    1913 /usr/bin/vlc --started-from  2.6
+  37001    3073 /opt/google/chrome/chrome -  2.4
+
+Logging done successfully at Wed 14 Jan 2026 09:39:38 WAT
+--------------------------------
+==============================
+System Resource Check - Wed 14 Jan 2026 09:55:01 WAT
+==============================
+
+Disk usage for /home:
+278G	/home
+
+Top 5 memory-consuming processes:
+    PID    PPID CMD                         %MEM
+   7509    3073 /opt/google/chrome/chrome -  4.9
+ 112693    3073 /opt/google/chrome/chrome -  4.9
+   3055    1913 /opt/google/chrome/chrome    4.5
+ 112674    3073 /opt/google/chrome/chrome -  4.2
+ 112781    3073 /opt/google/chrome/chrome -  4.0
+
+Logging done successfully at Wed 14 Jan 2026 09:55:04 WAT
+--------------------------------
+==============================
+System Resource Check - Wed 14 Jan 2026 10:00:01 WAT
+==============================
+
+Disk usage for /home:
+278G	/home
+
+Top 5 memory-consuming processes:
+    PID    PPID CMD                         %MEM
+ 112693    3073 /opt/google/chrome/chrome -  6.9
+   3055    1913 /opt/google/chrome/chrome    4.5
+   7509    3073 /opt/google/chrome/chrome -  4.4
+ 112674    3073 /opt/google/chrome/chrome -  3.8
+ 112781    3073 /opt/google/chrome/chrome -  3.2
+
+Logging done successfully at Wed 14 Jan 2026 10:00:04 WAT
+--------------------------------
+==============================
+System Resource Check - Wed 14 Jan 2026 10:05:01 WAT
+==============================
+
+Disk usage for /home:
+278G	/home
+
+Top 5 memory-consuming processes:
+    PID    PPID CMD                         %MEM
+ 112693    3073 /opt/google/chrome/chrome -  5.2
+   7509    3073 /opt/google/chrome/chrome -  5.0
+   3055    1913 /opt/google/chrome/chrome    4.4
+  96392    1913 /usr/bin/vlc --started-from  2.6
+  37001    3073 /opt/google/chrome/chrome -  2.5
+
+Logging done successfully at Wed 14 Jan 2026 10:05:03 WAT
+--------------------------------
+==============================
+System Resource Check - Wed 14 Jan 2026 10:10:01 WAT
+==============================
+
+Disk usage for /home:
+278G	/home
+
+Top 5 memory-consuming processes:
+    PID    PPID CMD                         %MEM
+   7509    3073 /opt/google/chrome/chrome -  5.0
+ 112693    3073 /opt/google/chrome/chrome -  4.9
+   3055    1913 /opt/google/chrome/chrome    4.3
+  96392    1913 /usr/bin/vlc --started-from  2.6
+  37001    3073 /opt/google/chrome/chrome -  2.5
+
+Logging done successfully at Wed 14 Jan 2026 10:10:03 WAT
+--------------------------------
+==============================
+System Resource Check - Wed 14 Jan 2026 10:15:01 WAT
+==============================
+
+Disk usage for /home:
+278G	/home
+
+Top 5 memory-consuming processes:
+    PID    PPID CMD                         %MEM
+ 112693    3073 /opt/google/chrome/chrome -  5.4
+   7509    3073 /opt/google/chrome/chrome -  4.6
+   3055    1913 /opt/google/chrome/chrome    4.4
+ 113971    3073 /opt/google/chrome/chrome -  3.1
+  96392    1913 /usr/bin/vlc --started-from  2.6
+
+Logging done successfully at Wed 14 Jan 2026 10:15:04 WAT
+--------------------------------
+==============================
+System Resource Check - Wed 14 Jan 2026 10:20:01 WAT
+==============================
+
+Disk usage for /home:
+278G	/home
+
+Top 5 memory-consuming processes:
+    PID    PPID CMD                         %MEM
+ 112693    3073 /opt/google/chrome/chrome -  5.7
+   3055    1913 /opt/google/chrome/chrome    4.6
+   7509    3073 /opt/google/chrome/chrome -  4.4
+ 113971    3073 /opt/google/chrome/chrome -  3.6
+  96392    1913 /usr/bin/vlc --started-from  2.6
+
+Logging done successfully at Wed 14 Jan 2026 10:20:05 WAT
+--------------------------------
